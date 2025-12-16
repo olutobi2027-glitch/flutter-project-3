@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # session_nine
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-project-3
+A Flutter app with a modern profile setup UI that allows users to create personalized academic profiles with educational details, profile photos, and guided onboarding tips.
+>>>>>>> f798851af9d6a9604b8e2e05ef394c1df057efd8
